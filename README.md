@@ -19,7 +19,7 @@ This webpage shows some information about a bookstore.
 
 ## Technologies Used
 
-Drupal, CSS, Custom modules, Drupal modules including, but limited to, sweaver, simple google maps, date, features, views, css injector, and chaos tools
+Drupal, CSS, Custom modules, Drupal modules including, but limited to, simple google maps, views, features, and chaos tools.
 
 ### Legal
 
