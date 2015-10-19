@@ -221,7 +221,7 @@ $databases = array (
       'username' => 'admin',
       'password' => 'password',
       'host' => '127.0.0.1',
-      'port' => '3306',
+      'port' => '8889',
       'driver' => 'mysql',
       'prefix' => '',
     ),
@@ -258,7 +258,7 @@ $update_free_access = FALSE;
  *   $drupal_hash_salt = file_get_contents('/home/example/salt.txt');
  *
  */
-$drupal_hash_salt = 'UKPS3mBWg3kx9hyRgsOyq8Sb_t7QUOmVFpX76YF9qnY';
+$drupal_hash_salt = 'FiDV5TRQ0OtKWhN47sFkAt_grOlDIzE-PrLpq_n2svI';
 
 /**
  * Base URL (optional).
